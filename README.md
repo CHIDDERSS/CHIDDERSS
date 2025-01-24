@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CHIDDERSS
 - 👀 I’m interested in scripting, web dev fullstack
-- 🌱 I’m currently learning C++, Typescript
+- 🌱 I’m currently learning C++, Typescript, mongodb
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: chiddersdev@gmail.com
 - 😄 Pronouns: He/Him
