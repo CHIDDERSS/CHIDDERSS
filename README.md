@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CHIDDERSS
-- 👀 I’m interested in scripting, web dev fullstack
-- 🌱 I’m currently learning C++, Typescript, mongodb
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in: scripting, web dev fullstack
+- 🌱 I’m currently learning: C++, Typescript, mongodb
+- 💞️ I’m looking to collaborate on: name something, anything and i'll collab
 - 📫 How to reach me: chiddersdev@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: do you want to see my custom GTA multiplayer server?
