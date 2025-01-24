@@ -6,6 +6,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: do you want to see my custom GTA multiplayer server?
 
+file:///C:/Users/holli/Pictures/New folder/godzilla-dance.gif
+
 <!---
 CHIDDERSS/CHIDDERSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
