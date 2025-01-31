@@ -1,25 +1,4 @@
-  <<div align="center">
-  <h2 style="
-    background-image: linear-gradient(
-      to right, 
-      #ff0000,
-      #ffa500,
-      #ffff00,
-      #00ff00,
-      #0000ff,
-      #4b0082,
-      #ee82ee
-    );
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
-    animation: rainbow-move 5s linear infinite;
-    font-size: 3em;
-    font-weight: bold;
-    margin: 20px 0;
-  ">CHIDDERS</h2>
-</div>
-
+<h2 style="background-color:Tomato;">CHIDDERS</h2>
 </div>
 <div className="gifs" align="center">
   <img src="https://media.tenor.com/G9td0kkOSjsAAAAi/cat-meme-kiss.gif" width="150">
