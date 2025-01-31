@@ -12,10 +12,10 @@ div align="center">
 </h2>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=CHIDDERSS&show_icons=true&locale=en&layout=compact&theme=radical" alt="CHIDDERSS" />
 
-🔭 I'm passionate about scripting and full-stack web development
-🌱 Currently learning: C++, TypeScript, and MongoDB
-💡 Fun fact: Wanna see my custom GTA server
-🤝 Open to collaborate on: you name it, I'm in!
+<h4>🔭 I'm passionate about scripting and full-stack web development</h4>
+<h4>🌱 Currently learning: C++, TypeScript, and MongoDB</h4>
+<h4>💡 Fun fact: Wanna see my custom GTA server</h4>
+<h4>🤝 Open to collaborate on: you name it, I'm in!</h4>
 
 <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
