@@ -20,7 +20,8 @@
 <h4>🔭 scripting and full-stack web dev</h4>
 <h4>🌱 Currently learning: C++, TypeScript, and MongoDB</h4>
 <h4>💡 Fun fact: Wanna see my custom GTA server</h4>
-<h4>🤝 Open to collaborate on: you name it, I'm in!</h4>
+<h4>🤝 you name it, I'll collab</h4>
+
 </div>
 
 <h2>
