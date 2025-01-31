@@ -1,0 +1,18 @@
+@keyframes rainbow {
+    0% { color: #ff2a2a; }
+    15% { color: #ff7a2a; }
+    30% { color: #ffc52a; }
+    45% { color: #43ff2a; }
+    60% { color: #2a89ff; }
+    75% { color: #202082; }
+    90% { color: #6b2aff; }
+    100% { color: #ff2a2a; }
+}
+
+h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    animation: rainbow 8s linear infinite;
+    text-shadow: 0 0 5px rgba(0,0,0,0.2);
+}

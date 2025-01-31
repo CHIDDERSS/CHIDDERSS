@@ -1,4 +1,4 @@
-  <h2>CHIDDERS</h2>
+  <h2 class="rainbow-text">CHIDDERS</h2>
 </div>
 <div className="gifs" align="center">
   <img src="https://media.tenor.com/G9td0kkOSjsAAAAi/cat-meme-kiss.gif" width="150">
