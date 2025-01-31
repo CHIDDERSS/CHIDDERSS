@@ -1,4 +1,5 @@
-<h2 style="background-color:Tomato;">CHIDDERS</h2>
+### CHIDDERS
+$${\color{red}Red}$$
 </div>
 <div className="gifs" align="center">
   <img src="https://media.tenor.com/G9td0kkOSjsAAAAi/cat-meme-kiss.gif" width="150">
