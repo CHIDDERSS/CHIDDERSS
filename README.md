@@ -20,7 +20,7 @@
 <h4>🔭 $${\color{red}scripting and full-stack web dev}$$</h4>
 <h4>🌱 $${\color{orange}Currently learning: C++, TypeScript, and MongoDB}$$</h4>
 <h4>💡 $${\color{yellow}Fun fact: Wanna see my custom GTA server}$$</h4>
-<h4>🤝 $${\green}you name it, I'll collab}$$</h4>
+<h4>🤝 $${\color{green}you name it, I'll collab}$$</h4>
 
 <p>the true internet speed test</p>
 </div>
