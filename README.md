@@ -19,16 +19,7 @@
     margin: 20px 0;
   ">CHIDDERS</h2>
 </div>
-<style>
-@keyframes rainbow-move {
-  0% {
-    background-position: 0% 50%;
-  }
-  100% {
-    background-position: 200% 50%;
-  }
-}
-</style>
+
 </div>
 <div className="gifs" align="center">
   <img src="https://media.tenor.com/G9td0kkOSjsAAAAi/cat-meme-kiss.gif" width="150">
