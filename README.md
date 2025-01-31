@@ -1,5 +1,5 @@
 div align="center">
-  <img src=""/>
+  <h2>CHIDDERS</h2>
 </div>
 <div align="center">
   <img src="https://media.tenor.com/G9td0kkOSjsAAAAi/cat-meme-kiss.gif" width="150">
@@ -7,7 +7,7 @@ div align="center">
   <img src="https://media1.tenor.com/m/gm_mhpzK1wsAAAAC/gato-cat.gif" width="150" height="150">
 </div>
 <h2>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.tenor.com/rr6G_nGWSkoAAAAi/oiiaioiiai.gif" width="28">
   About Me
 </h2>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=CHIDDERSS&show_icons=true&locale=en&layout=compact&theme=radical" alt="CHIDDERSS" />
@@ -18,7 +18,7 @@ div align="center">
 <h4>🤝 Open to collaborate on: you name it, I'm in!</h4>
 
 <h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.tenor.com/rr6G_nGWSkoAAAAi/oiiaioiiai.gif" width="28">
   Tech Stack
 </h2>
 <!---
