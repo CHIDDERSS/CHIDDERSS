@@ -7,7 +7,7 @@ div align="center">
   <img src="https://media1.tenor.com/m/gm_mhpzK1wsAAAAC/gato-cat.gif" width="150" height="150">
 </div>
 <h2>
-  <img src="https://media.tenor.com/rr6G_nGWSkoAAAAi/oiiaioiiai.gif">
+  <img src="https://media.tenor.com/rr6G_nGWSkoAAAAi/oiiaioiiai.gif" width="28">
   About Me
 </h2>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=CHIDDERSS&show_icons=true&locale=en&layout=compact&theme=radical" alt="CHIDDERSS" />
