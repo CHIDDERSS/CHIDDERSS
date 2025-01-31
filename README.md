@@ -1,5 +1,5 @@
 <div align="center">
-<h2>$${\color{red}CHIDDERS}$$</h2>
+<h2>$${\color{orange}CHIDDERS}$$</h2>
 </div>
 <div className="gifs" align="center">
   <img src="https://media.tenor.com/G9td0kkOSjsAAAAi/cat-meme-kiss.gif" width="150">
