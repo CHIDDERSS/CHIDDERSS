@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm CHIDDERSS! 👋</h1>
+<h3 align="center">Hi there, I'm CHIDDERSS! 👋</h3>
 <div align="center">
   <img src="https://media.tenor.com/G9td0kkOSjsAAAAi/cat-meme-kiss.gif" width="150">
   <img src="https://media.tenor.com/7ynNPpnsQ8MAAAAi/duck-dancing.gif" width="150">
