@@ -22,6 +22,7 @@
 <h4>💡 Fun fact: Wanna see my custom GTA server</h4>
 <h4>🤝 you name it, I'll collab</h4>
 
+<p>the true internet speed test</p>
 </div>
 
 <h2>
