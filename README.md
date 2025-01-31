@@ -1,5 +1,5 @@
 div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi%20there,%20I'm%20CHIDDERSS!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Game%20Server%20Creator&descAlignY=51&descAlign=62"/>
+  <img src=""/>
 </div>
 <div align="center">
   <img src="https://media.tenor.com/G9td0kkOSjsAAAAi/cat-meme-kiss.gif" width="150">
