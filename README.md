@@ -37,7 +37,7 @@
 </div>
 
 <div className="text_box">
-<h4>🔭 scripting and full-stack web development</h4>
+<h4>🔭 scripting and full-stack web dev</h4>
 <h4>🌱 Currently learning: C++, TypeScript, and MongoDB</h4>
 <h4>💡 Fun fact: Wanna see my custom GTA server</h4>
 <h4>🤝 Open to collaborate on: you name it, I'm in!</h4>
