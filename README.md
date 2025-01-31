@@ -1,4 +1,3 @@
-div align="center">
   <h2>CHIDDERS</h2>
 </div>
 <div align="center">
