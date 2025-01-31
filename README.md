@@ -7,7 +7,8 @@
 - ⚡ Fun fact: do you want to see my custom GTA multiplayer server?
 
 ![Alt Text](https://media.tenor.com/G9td0kkOSjsAAAAi/cat-meme-kiss.gif) ![Alt Text](https://media.tenor.com/aSHBPR_gCXQAAAAi/shocked-surprised.gif) ![Alt Text](https://media.tenor.com/7ynNPpnsQ8MAAAAi/duck-dancing.gif)
-![Alt Text](https://media1.tenor.com/m/gm_mhpzK1wsAAAAC/gato-cat.gif)
+
+<img src="https://media1.tenor.com/m/gm_mhpzK1wsAAAAC/gato-cat.gif" width="200" height="200">
 <!---
 CHIDDERSS/CHIDDERSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
