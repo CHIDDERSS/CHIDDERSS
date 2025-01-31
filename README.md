@@ -13,7 +13,7 @@
 </h2>
 </div>
 <div className="stats">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=chidderss&show_icons=true&theme=cobalt&show_icons=true&locale=en&layout=compact&theme=radical" alt="CHIDDERSS" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=chidderss&show_icons=true&theme=cobalt&show_icons=true&locale=en&layout=compact" alt="CHIDDERSS" />
 </div>
 
 <div className="text_box">
