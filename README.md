@@ -9,7 +9,7 @@
 </div>
 <div className="About_Me">
 <h2>
-  <img src="https://media.tenor.com/QTbcrC893SIAAAAi/solaire.gif" width="28">
+  <img src="https://media.tenor.com/ToIPfeRUy7MAAAAi/solaire-praisethesun.gif" width="28"> 
   About Me
   <img src="https://media.tenor.com/rr6G_nGWSkoAAAAi/oiiaioiiai.gif" width="28">
 </h2>
@@ -28,7 +28,7 @@
 </div>
 
 <h2>
-  <img src="https://media.tenor.com/QTbcrC893SIAAAAi/solaire.gif" width="28">
+  <img src="https://media.tenor.com/ToIPfeRUy7MAAAAi/solaire-praisethesun.gif" width="28">
   Tech Stack
   <img src="https://media.tenor.com/rr6G_nGWSkoAAAAi/oiiaioiiai.gif" width="28">
 </h2>
