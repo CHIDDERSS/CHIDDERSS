@@ -11,6 +11,7 @@
 <h2>
   <img src="https://media.tenor.com/rr6G_nGWSkoAAAAi/oiiaioiiai.gif" width="28">
   About Me
+  <img src="https://media.tenor.com/ToIPfeRUy7MAAAAi/solaire-praisethesun.gif" width="28">
 </h2>
 </div>
 <div className="stats">
@@ -29,6 +30,7 @@
 <h2>
   <img src="https://media.tenor.com/rr6G_nGWSkoAAAAi/oiiaioiiai.gif" width="28">
   Tech Stack
+  <img src="https://media.tenor.com/ToIPfeRUy7MAAAAi/solaire-praisethesun.gif" width="28">
 </h2>
 <!---
 CHIDDERSS/CHIDDERSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
