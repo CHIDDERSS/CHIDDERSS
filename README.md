@@ -9,9 +9,9 @@
 </div>
 <div className="About_Me">
 <h2>
-  <img src="https://media.tenor.com/rr6G_nGWSkoAAAAi/oiiaioiiai.gif" width="28">
+  <img src="https://media.tenor.com/QTbcrC893SIAAAAi/solaire.gif" width="28">
   About Me
-  <img src="https://media.tenor.com/ToIPfeRUy7MAAAAi/solaire-praisethesun.gif" width="28">
+  <img src="https://media.tenor.com/rr6G_nGWSkoAAAAi/oiiaioiiai.gif" width="28">
 </h2>
 </div>
 <div className="stats">
@@ -28,9 +28,9 @@
 </div>
 
 <h2>
-  <img src="https://media.tenor.com/rr6G_nGWSkoAAAAi/oiiaioiiai.gif" width="28">
+  <img src="https://media.tenor.com/QTbcrC893SIAAAAi/solaire.gif" width="28">
   Tech Stack
-  <img src="https://media.tenor.com/ToIPfeRUy7MAAAAi/solaire-praisethesun.gif" width="28">
+  <img src="https://media.tenor.com/rr6G_nGWSkoAAAAi/oiiaioiiai.gif" width="28">
 </h2>
 <!---
 CHIDDERSS/CHIDDERSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,5 +38,6 @@ You can click the Preview link to take a look at your changes.
 -------------------------------------------- IMGS FOR FUTURE USE ------------------------------------------------------ 
             <img src="https://media.tenor.com/am86MJSZVUwAAAAi/hehe.gif" width="150" height="150"> 
             ![Alt Text](https://media.tenor.com/aSHBPR_gCXQAAAAi/shocked-surprised.gif)
+            <img src="https://media.tenor.com/ToIPfeRUy7MAAAAi/solaire-praisethesun.gif" width="28"> -- solarie
 ------------------------------------------------------------------------------------------------------------------------
 --->
