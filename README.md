@@ -15,7 +15,8 @@
 </h2>
 </div>
 <div className="stats">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=chidderss&show_icons=true&theme=ambient_gradient&show_icons=true&locale=en&layout=compact" alt="CHIDDERSS" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=chidderss&show_icons=true&theme=cobolt&show_icons=true&locale=en&layout=compact" alt="CHIDDERSS" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div className="text_box">
